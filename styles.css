@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.container {
+    height: 100vh;
+    background-image: url(assets/background.jpg);
+    background-size: cover;
+    display: grid;
+    align-items: end;
+    justify-content: center;
+}
+
+#character {
+    min-height: 0;
+}
+
+img {
+    width: 900px;
+}
